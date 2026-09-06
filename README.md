@@ -13,7 +13,7 @@ I’m particularly interested in application development, system design, API int
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [MyPortfolio](http://myportfolio-orcin-seven-84.vercel.app/)
 * ✉️  You can contact me at [deilariess0@gmail.com](mailto:deilariess0@gmail.com)
-* 🧠  I'm currently learning I’m currently expanding my full-stack skills with TypeScript, Next.js, PostgreSQL, Docker, cloud deployment, and AI-powered applications.
+* 🧠  I’m currently expanding my full-stack skills with TypeScript, Next.js, PostgreSQL, Docker, cloud deployment, and AI-powered applications.
 * 👥  I'm looking to collaborate on Web applications, SaaS products, business management systems, and projects that solve real-world problems.
 
 ### Skills
